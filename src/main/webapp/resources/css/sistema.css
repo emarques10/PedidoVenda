@@ -60,7 +60,12 @@ h1{
 	height: 35px;
 }
 
+.produto-tabela input {
+	width: 99%;
+}
+
 footer{
 	padding: 0px 8px;
 	margin-bottom: 10px;
 }
+
